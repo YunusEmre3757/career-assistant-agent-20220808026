@@ -1,0 +1,9 @@
+My name is a Yunus Emre balcı that is computer engineering student with a strong interest in software development, artificial intelligence, and modern web technologies. I have hands-on experience in building full-stack applications, particularly in the e-commerce domain, using technologies such as Angular, Java, Spring Boot, and SQL.
+
+I have worked on several academic and personal projects involving database design, RESTful APIs, authentication mechanisms (JWT and refresh tokens), and frontend application development with Angular. I focus on writing clean, well-structured, and type-safe code, and I enjoy solving complex problems with practical engineering solutions.
+
+In addition, I have experience designing user interfaces and dashboards with a strong emphasis on usability and modern design principles. I am comfortable working with data-driven systems and visualizing information through charts, tables, and interactive components.
+
+Recently, I have been exploring artificial intelligence and agent-based systems, including projects that integrate large language models with external tools and APIs. I am particularly interested in self-evaluating AI systems, human-in-the-loop pipelines, and confidence-based decision-making mechanisms.
+
+My professional goals include improving my skills in backend systems, AI-assisted applications, and scalable software architectures. I value clear communication, continuous learning, and producing reliable, maintainable software. I aim to contribute to projects where I can grow technically while delivering meaningful and high-quality solutions.

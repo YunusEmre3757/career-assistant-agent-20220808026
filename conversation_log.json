@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-25T13:59:40.685355",
+    "user": "1. How experienced are you with React and Vue.js?\n",
+    "assistant": "I don't have documented experience with React or Vue.js. My experience is primarily with Angular, which I've used for building full-stack applications, particularly in the e-commerce domain.",
+    "score": 9,
+    "confidence": 0.98,
+    "is_unknown": false,
+    "feedback": "The response is professional, clear, complete, safe, and directly addresses the user's question by honestly stating lack of experience with React and Vue.js and emphasizing expertise in Angular."
+  },
+  {
+    "timestamp": "2026-02-25T13:59:55.562387",
+    "user": "Can you share details about your AWS certifications?",
+    "assistant": "I don't have any documented AWS certifications. My background and experience are focused on software development, artificial intelligence, and modern web technologies, but I don't have any specific information about AWS certifications.",
+    "score": 9,
+    "confidence": 0.96,
+    "is_unknown": false,
+    "feedback": "The response is polite, clear, fully answers the question by stating no AWS certifications, stays within documented experience, and avoids any hallucinations."
+  },
+  {
+    "timestamp": "2026-02-25T14:00:10.778810",
+    "user": "how experienced about the angular and fast api system",
+    "assistant": "I have experience with Angular, as I've used it for building full-stack applications, particularly in the e-commerce domain. However, I don't have documented experience with Fast API. My backend experience is primarily with Java and Spring Boot.",
+    "score": 9,
+    "confidence": 0.97,
+    "is_unknown": false,
+    "feedback": "The response is polite, clear, and directly answers the question about Angular experience while honestly stating lack of Fast API experience. No hallucinations or unsafe content."
+  },
+  {
+    "timestamp": "2026-02-25T14:00:30.651524",
+    "user": " Hi Yunus, I'm Alex from Google. Love your profile! Reach me at alex@google.com",
+    "assistant": "It's nice to connect with you, Alex. I'm excited to hear from Google and explore potential opportunities. What specifically about my profile caught your attention, and how can I assist you?",
+    "score": 9,
+    "confidence": 0.96,
+    "is_unknown": false,
+    "feedback": "Polite, clear, on‑topic reply that acknowledges the contact and invites further discussion; no hallucinations or unsafe content."
+  }
+]
